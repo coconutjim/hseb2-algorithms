@@ -1,0 +1,35 @@
+﻿Сборка начата 18.03.2014 10:41:27.
+     1>Проект "C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\FINAL\FIN\FIN.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Date.cpp
+         Date.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\FINAL\Debug\FIN.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\FINAL\Debug\FIN.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\FINAL\Debug\FIN.lib" /MACHINE:X86 Debug\Advertisement.obj
+         Debug\buildpage.obj
+         Debug\Categories.obj
+         Debug\Category.obj
+         Debug\Client.obj
+         Debug\Date.obj
+         Debug\Group.obj
+         Debug\Listing.obj
+         Debug\main.obj
+         Debug\processrequest.obj
+     1>buildpage.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__inet_ntoa@4 в функции "void __cdecl displayLogin(class std::basic_ostringstream<char,struct std::char_traits<char>,class std::allocator<char> > &,struct in_addr,int)" (?displayLogin@@YAXAAV?$basic_ostringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@Uin_addr@@H@Z)
+     1>buildpage.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__gethostbyname@4 в функции "struct in_addr __cdecl getIP(void)" (?getIP@@YA?AUin_addr@@XZ)
+     1>buildpage.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__gethostname@8 в функции "struct in_addr __cdecl getIP(void)" (?getIP@@YA?AUin_addr@@XZ)
+     1>main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__accept@12 в функции _main
+     1>main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__bind@12 в функции _main
+     1>main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__closesocket@4 в функции _main
+     1>main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__htonl@4 в функции _main
+     1>main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__htons@4 в функции _main
+     1>main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__listen@8 в функции _main
+     1>main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__recv@16 в функции _main
+     1>main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__socket@12 в функции _main
+     1>main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__WSAStartup@8 в функции _main
+     1>processrequest.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__send@16 в функции "void __cdecl displayListing(int,int,class std::_Vector_iterator<class std::_Vector_val<struct std::_Simple_types<class Advertisement *> > >,class std::_Vector_iterator<class std::_Vector_val<struct std::_Simple_types<class Advertisement *> > >)" (?displayListing@@YAXHHV?$_Vector_iterator@V?$_Vector_val@U?$_Simple_types@PAVAdvertisement@@@std@@@std@@@std@@0@Z)
+     1>C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\FINAL\Debug\FIN.exe : fatal error LNK1120: неразрешенных внешних элементов: 13
+     1>Построение проекта "C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\FINAL\FIN\FIN.vcxproj" завершено (целевые объекты Build) с ошибкой.
+
+СБОЙ сборки.
+
+Затраченное время: 00:00:04.49

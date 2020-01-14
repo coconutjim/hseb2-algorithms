@@ -1,0 +1,6 @@
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

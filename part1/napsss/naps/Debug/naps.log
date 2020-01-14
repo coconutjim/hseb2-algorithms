@@ -1,0 +1,26 @@
+﻿Построение начато 05.12.2013 20:00:50.
+     1>Проект "C:\Users\Lev\Desktop\Study_Materials_2\Alg\napsss\naps\naps.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt OsipovLI_knap_alg.cpp OsipovLI_knap_main.cpp
+         OsipovLI_knap_alg.cpp
+     1>c:\users\lev\desktop\study_materials_2\alg\napsss\naps\osipovli_knap_alg.cpp(14): error C2653: Knap_recursive: не является именем класса или пространства имен
+     1>c:\users\lev\desktop\study_materials_2\alg\napsss\naps\osipovli_knap_alg.cpp(14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\users\lev\desktop\study_materials_2\alg\napsss\naps\osipovli_knap_alg.cpp(15): error C2065: resW: необъявленный идентификатор
+     1>c:\users\lev\desktop\study_materials_2\alg\napsss\naps\osipovli_knap_alg.cpp(16): warning C4508: Knap_recursive: функция должна возвращать значение; предполагается возвращаемый тип "void"
+     1>c:\users\lev\desktop\study_materials_2\alg\napsss\naps\osipovli_knap_alg.cpp(18): error C2653: Knap_recursive: не является именем класса или пространства имен
+     1>c:\users\lev\desktop\study_materials_2\alg\napsss\naps\osipovli_knap_alg.cpp(24): error C2065: resC: необъявленный идентификатор
+     1>c:\users\lev\desktop\study_materials_2\alg\napsss\naps\osipovli_knap_alg.cpp(24): error C2065: resW: необъявленный идентификатор
+     1>c:\users\lev\desktop\study_materials_2\alg\napsss\naps\osipovli_knap_alg.cpp(25): error C2065: resC: необъявленный идентификатор
+     1>c:\users\lev\desktop\study_materials_2\alg\napsss\naps\osipovli_knap_alg.cpp(40): error C2653: Knap_recursive: не является именем класса или пространства имен
+     1>c:\users\lev\desktop\study_materials_2\alg\napsss\naps\osipovli_knap_alg.cpp(42): error C2065: resC: необъявленный идентификатор
+     1>c:\users\lev\desktop\study_materials_2\alg\napsss\naps\osipovli_knap_alg.cpp(89): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         Создание кода...
+         Компиляция...
+         OsipovLI_knap_main.cpp
+     1>c:\users\lev\desktop\study_materials_2\alg\napsss\naps\osipovli_knap_main.cpp(35): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         Создание кода...
+     1>Построение проекта "C:\Users\Lev\Desktop\Study_Materials_2\Alg\napsss\naps\naps.vcxproj" завершено (целевые объекты Build) с ошибкой.
+
+Сбой построения.
+
+Затраченное время: 00:00:07.65

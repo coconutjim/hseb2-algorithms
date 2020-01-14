@@ -1,0 +1,20 @@
+﻿Построение начато 27.01.2014 23:29:13.
+     1>Проект "C:\Users\Lev\Desktop\Study_Materials_2\Alg\test\test\test.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt t.cpp
+         t.cpp
+     1>c:\users\lev\desktop\study_materials_2\alg\test\test\t.cpp(34): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+     1>c:\users\lev\desktop\study_materials_2\alg\test\test\t.cpp(35): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+     1>c:\users\lev\desktop\study_materials_2\alg\test\test\t.cpp(37): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+     1>c:\users\lev\desktop\study_materials_2\alg\test\test\t.cpp(38): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+     1>c:\users\lev\desktop\study_materials_2\alg\test\test\t.cpp(39): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lev\Desktop\Study_Materials_2\Alg\test\Debug\test.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lev\Desktop\Study_Materials_2\Alg\test\Debug\test.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lev\Desktop\Study_Materials_2\Alg\test\Debug\test.lib" /MACHINE:X86 Debug\t.obj
+     1>t.obj : error LNK2001: неразрешенный внешний символ ""void __cdecl f1(void)" (?f1@@YAXXZ)"
+     1>t.obj : error LNK2001: неразрешенный внешний символ ""void __cdecl f2(void)" (?f2@@YAXXZ)"
+     1>C:\Users\Lev\Desktop\Study_Materials_2\Alg\test\Debug\test.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
+     1>Построение проекта "C:\Users\Lev\Desktop\Study_Materials_2\Alg\test\test\test.vcxproj" завершено (целевые объекты Build) с ошибкой.
+
+Сбой построения.
+
+Затраченное время: 00:00:01.25

@@ -1,0 +1,23 @@
+﻿Построение начато 11.02.2014 11:04:48.
+     1>Проект "C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\homework3\hw3\hw3.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp safearray.cpp
+         safearray.cpp
+     1>c:\users\lev\desktop\dropbox\study_materials_2\alg2\homework3\hw3\safearray.h(18): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+                 c:\users\lev\desktop\dropbox\study_materials_2\alg2\homework3\hw3\safearray.h(19): см. ссылку на создание экземпляров класса шаблон при компиляции "safearray<T>"
+     1>c:\users\lev\desktop\dropbox\study_materials_2\alg2\homework3\hw3\safearray.cpp(12): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+         main.cpp
+     1>c:\users\lev\desktop\dropbox\study_materials_2\alg2\homework3\hw3\safearray.h(18): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+                 c:\users\lev\desktop\dropbox\study_materials_2\alg2\homework3\hw3\safearray.h(19): см. ссылку на создание экземпляров класса шаблон при компиляции "safearray<T>"
+     1>c:\users\lev\desktop\dropbox\study_materials_2\alg2\homework3\hw3\safearray.cpp(12): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+     1>c:\users\lev\desktop\dropbox\study_materials_2\alg2\homework3\hw3\course.h(34): warning C4101: e: неиспользованная локальная переменная
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\homework3\Debug\hw3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\homework3\Debug\hw3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\homework3\Debug\hw3.lib" /MACHINE:X86 Debug\main.obj
+         Debug\safearray.obj
+         hw3.vcxproj -> C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\homework3\Debug\hw3.exe
+     1>Построение проекта "C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\homework3\hw3\hw3.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:04.63

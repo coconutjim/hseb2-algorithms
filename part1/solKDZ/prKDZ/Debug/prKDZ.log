@@ -1,0 +1,14 @@
+﻿Построение начато 15.12.2013 23:12:59.
+     1>Проект "C:\Users\Lev\Desktop\Study_Materials_2\Alg\solKDZ\prKDZ\prKDZ.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt OsipovLI_KDZ_main.cpp
+         OsipovLI_KDZ_main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lev\Desktop\Study_Materials_2\Alg\solKDZ\Debug\prKDZ.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lev\Desktop\Study_Materials_2\Alg\solKDZ\Debug\prKDZ.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lev\Desktop\Study_Materials_2\Alg\solKDZ\Debug\prKDZ.lib" /MACHINE:X86 Debug\OsipovLI_KDZ_main.obj
+         Debug\OsipovLI_KDZ_sort.obj
+         prKDZ.vcxproj -> C:\Users\Lev\Desktop\Study_Materials_2\Alg\solKDZ\Debug\prKDZ.exe
+     1>Построение проекта "C:\Users\Lev\Desktop\Study_Materials_2\Alg\solKDZ\prKDZ\prKDZ.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:07.27

@@ -1,0 +1,11 @@
+﻿Построение начато 18.10.2013 23:57:31.
+     1>Проект "C:\Users\Lev\Desktop\Study_Materials_2\Alg\zad3\z3\z3.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lev\Desktop\Study_Materials_2\Alg\zad3\Debug\OsipovLI_proekt6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lev\Desktop\Study_Materials_2\Alg\zad3\Debug\OsipovLI_proekt6.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lev\Desktop\Study_Materials_2\Alg\zad3\Debug\OsipovLI_proekt6.lib" /MACHINE:X86 Debug\OsipovLI_proekt6_main.obj
+         Debug\OsipovLI_proekt6_sort.obj
+         z3.vcxproj -> C:\Users\Lev\Desktop\Study_Materials_2\Alg\zad3\Debug\OsipovLI_proekt6.exe
+     1>Построение проекта "C:\Users\Lev\Desktop\Study_Materials_2\Alg\zad3\z3\z3.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.78

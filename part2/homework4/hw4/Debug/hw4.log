@@ -1,0 +1,18 @@
+﻿Построение начато 17.02.2014 11:02:10.
+     1>Проект "C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\homework4\hw4\hw4.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\lev\desktop\dropbox\study_materials_2\alg2\homework4\hw4\safearray.h(17): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+                 c:\users\lev\desktop\dropbox\study_materials_2\alg2\homework4\hw4\safearray.h(19): см. ссылку на создание экземпляров класса шаблон при компиляции "SafeArray<T>"
+     1>c:\users\lev\desktop\dropbox\study_materials_2\alg2\homework4\hw4\safearray.h(18): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+     1>c:\users\lev\desktop\dropbox\study_materials_2\alg2\homework4\hw4\safearray.h(38): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+     1>c:\users\lev\desktop\dropbox\study_materials_2\alg2\homework4\hw4\safearray.h(53): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+     1>c:\users\lev\desktop\dropbox\study_materials_2\alg2\homework4\hw4\main.cpp(72): error C2659: =: функция в качестве левого операнда
+     1>c:\users\lev\desktop\dropbox\study_materials_2\alg2\homework4\hw4\main.cpp(74): error C2109: для индекса требуется массив или указатель
+     1>c:\users\lev\desktop\dropbox\study_materials_2\alg2\homework4\hw4\main.cpp(78): error C2228: выражение слева от ".size" должно представлять класс, структуру или объединение
+     1>Построение проекта "C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\homework4\hw4\hw4.vcxproj" завершено (целевые объекты Build) с ошибкой.
+
+Сбой построения.
+
+Затраченное время: 00:00:03.26

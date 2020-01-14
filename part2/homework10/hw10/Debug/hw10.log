@@ -1,0 +1,19 @@
+﻿Сборка начата 19.05.2014 2:41:38.
+     1>Проект "C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\homework10\hw10\hw10.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\lev\desktop\dropbox\study_materials_2\alg2\homework10\hw10\dictionary.h(25): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\lev\desktop\dropbox\study_materials_2\alg2\homework10\hw10\main.cpp(72): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\lev\desktop\dropbox\study_materials_2\alg2\homework10\hw10\main.cpp(89): warning C4101: initial: неиспользованная локальная переменная
+     1>c:\users\lev\desktop\dropbox\study_materials_2\alg2\homework10\hw10\main.cpp(124): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\homework10\Debug\hw10.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\homework10\Debug\hw10.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\homework10\Debug\hw10.lib" /MACHINE:X86 Debug\dictionary.obj
+         Debug\hashset.obj
+         Debug\main.obj
+         hw10.vcxproj -> C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\homework10\Debug\hw10.exe
+     1>Построение проекта "C:\Users\Lev\Desktop\Dropbox\Study_Materials_2\Alg2\homework10\hw10\hw10.vcxproj" завершено (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:04.99
