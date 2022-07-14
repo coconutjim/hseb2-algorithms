@@ -13,4 +13,5 @@ part1
 9. Time measuring utils and vuzialisation
 
 part2
-Various tasks for data structures usage (linked list, stack, queue, hashset, etc.)
+
+  Various tasks for data structures usage (linked list, stack, queue, hashset, etc.)
