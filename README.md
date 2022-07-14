@@ -10,7 +10,7 @@
 6. Heap sort
 7. Quick sort
 8. Knapsack problem solutions (greedy and using dynamic programming)
-9. Time measuring utils and vuzialisation
+9. Time measuring utils and vusialization
 
 `part2`
 
